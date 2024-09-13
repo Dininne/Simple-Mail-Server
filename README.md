@@ -1,4 +1,4 @@
-![a8f564a0c932b82fbd66d847776d5bf](https://github.com/user-attachments/assets/7378cd2b-1c1f-4e0e-93cd-4c661d3c303e)# Simple-Mail-Server
+# Simple-Mail-Server
 临时起意使用Java语言编写的简易邮件服务器，包含客户端和服务端，功能基础但够用（无前端）
 
 # 设计思路和方案
